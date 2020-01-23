@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="login_button">Log In</string>
+    <string name="username_text">Username</string>
+    <string name="loginscreen_text">Welcome to 2018 chat app</string>
+    <string name="message_text">Type to chat!</string>
+    <string name="send_button">Send</string>
+    <string name="users_menu">Users</string>
+    <string name="history_menu">History</string>
+    <string name="quit_menu">Quit</string>
+</resources>

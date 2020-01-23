@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/users"
+        android:title="@string/users_menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/history"
+        android:title="@string/history_menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/quit"
+        android:title="@string/quit_menu"
+        app:showAsAction="never" />
+
+
+</menu>
